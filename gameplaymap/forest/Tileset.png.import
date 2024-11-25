@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cjr22v5yy554p"
+path="res://.godot/imported/Tileset.png-f7e4482e5c34af6940f9b75e06411b97.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://gameplaymap/forest/Tileset.png"
+dest_files=["res://.godot/imported/Tileset.png-f7e4482e5c34af6940f9b75e06411b97.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://mqqsbqoo2xw1"
+path="res://.godot/imported/tilesWalls.png-0a069da0232136ea7242d1699da6f884.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://labmap/tiles_laboratory_LandOfPixels/tiles_laboratory_LandOfPixels/16px/tilesWalls.png"
+dest_files=["res://.godot/imported/tilesWalls.png-0a069da0232136ea7242d1699da6f884.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

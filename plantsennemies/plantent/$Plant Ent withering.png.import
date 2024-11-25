@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://e43lvo0l547w"
+path="res://.godot/imported/$Plant Ent withering.png-9c58abdf605de6a7c21a044b2db18f69.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://plantsennemies/plantent/$Plant Ent withering.png"
+dest_files=["res://.godot/imported/$Plant Ent withering.png-9c58abdf605de6a7c21a044b2db18f69.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

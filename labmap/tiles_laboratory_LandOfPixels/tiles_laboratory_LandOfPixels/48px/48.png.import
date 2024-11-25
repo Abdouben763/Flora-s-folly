@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cw2dp8o0ongwi"
+path="res://.godot/imported/48.png-3c20bf4afb053af44bd5559d0701d1d9.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://labmap/tiles_laboratory_LandOfPixels/tiles_laboratory_LandOfPixels/48px/48.png"
+dest_files=["res://.godot/imported/48.png-3c20bf4afb053af44bd5559d0701d1d9.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

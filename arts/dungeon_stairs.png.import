@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ivb6yp5nwdjn"
+path="res://.godot/imported/dungeon_stairs.png-8fdbf4418c819c51d95194269a612a73.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/dungeon_stairs.png"
+dest_files=["res://.godot/imported/dungeon_stairs.png-8fdbf4418c819c51d95194269a612a73.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

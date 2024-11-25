@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cluxydfuvcsbd"
+path="res://.godot/imported/Crawling_004.png-b9dbd7a24911aa41a1a5404fdc5b8bd2.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Crawling_004.png"
+dest_files=["res://.godot/imported/Crawling_004.png-b9dbd7a24911aa41a1a5404fdc5b8bd2.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

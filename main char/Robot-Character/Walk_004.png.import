@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bw5rc03352qtk"
+path="res://.godot/imported/Walk_004.png-4537f500f2b60e3731e58bbf24be0371.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Walk_004.png"
+dest_files=["res://.godot/imported/Walk_004.png-4537f500f2b60e3731e58bbf24be0371.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

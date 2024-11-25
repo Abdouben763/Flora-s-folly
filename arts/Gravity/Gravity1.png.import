@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dxt2nkqp1pbxb"
+path="res://.godot/imported/Gravity1.png-8005bd46ecd2d5771f5adc954a42c75f.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/Gravity/Gravity1.png"
+dest_files=["res://.godot/imported/Gravity1.png-8005bd46ecd2d5771f5adc954a42c75f.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

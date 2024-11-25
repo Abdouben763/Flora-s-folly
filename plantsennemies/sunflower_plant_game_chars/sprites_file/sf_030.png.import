@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cd8jqajk6sgyo"
+path="res://.godot/imported/sf_030.png-50509e300e37ebb31ac2805df4737785.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://plantsennemies/sunflower_plant_game_chars/sprites_file/sf_030.png"
+dest_files=["res://.godot/imported/sf_030.png-50509e300e37ebb31ac2805df4737785.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

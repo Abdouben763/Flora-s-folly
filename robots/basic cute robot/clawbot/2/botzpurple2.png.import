@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ddrwdwf0x8b2k"
+path="res://.godot/imported/botzpurple2.png-431847cd49692105c2c9749c3ebb0237.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/clawbot/2/botzpurple2.png"
+dest_files=["res://.godot/imported/botzpurple2.png-431847cd49692105c2c9749c3ebb0237.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

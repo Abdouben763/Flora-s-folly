@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://1gqdr5gt0in0"
+path="res://.godot/imported/spriteSheet_lightingBulb02_136x146.png-91612c5bb46bfee7e0a6ef96b0a5439f.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://labmap/tiles_laboratory_LandOfPixels/tiles_laboratory_LandOfPixels/32px/spriteSheet_lightingBulb02_136x146.png"
+dest_files=["res://.godot/imported/spriteSheet_lightingBulb02_136x146.png-91612c5bb46bfee7e0a6ef96b0a5439f.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

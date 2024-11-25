@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ry4ls1rtrl72"
+path="res://.godot/imported/botzgreen1.png-7bcbb74b9bdf42498d9da4573a0fe6a0.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/clawbot/4/botzgreen1.png"
+dest_files=["res://.godot/imported/botzgreen1.png-7bcbb74b9bdf42498d9da4573a0fe6a0.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

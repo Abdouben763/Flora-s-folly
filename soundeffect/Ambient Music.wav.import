@@ -1,0 +1,15 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dmgwl8a0cit5r"
+path="res://.godot/imported/Ambient Music.wav-a95b75da9708e1dcbccd286f060769be.sample"
+
+[deps]
+
+source_file="res://soundeffect/Ambient Music.wav"
+dest_files=["res://.godot/imported/Ambient Music.wav-a95b75da9708e1dcbccd286f060769be.sample"]
+
+[params]
+
+dummy_value_ignore_me=0

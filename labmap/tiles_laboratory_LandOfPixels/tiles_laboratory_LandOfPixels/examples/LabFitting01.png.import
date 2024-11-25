@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bus3nvlq6sdr7"
+path="res://.godot/imported/LabFitting01.png-dc51a7f5d14fe01126e7da6d1de966b1.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://labmap/tiles_laboratory_LandOfPixels/tiles_laboratory_LandOfPixels/examples/LabFitting01.png"
+dest_files=["res://.godot/imported/LabFitting01.png-dc51a7f5d14fe01126e7da6d1de966b1.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

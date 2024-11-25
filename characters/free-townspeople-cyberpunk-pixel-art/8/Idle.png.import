@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bhjl7e1tahktx"
+path="res://.godot/imported/Idle.png-38f814d5a27bae64a2b0f61d8d16125a.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://characters/free-townspeople-cyberpunk-pixel-art/8/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-38f814d5a27bae64a2b0f61d8d16125a.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dmuw5np88vx1u"
+path="res://.godot/imported/ballgreen2.png-3fcf013f1d6fdd8b66943994bc7ed080.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/ballbot/4/ballgreen2.png"
+dest_files=["res://.godot/imported/ballgreen2.png-3fcf013f1d6fdd8b66943994bc7ed080.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

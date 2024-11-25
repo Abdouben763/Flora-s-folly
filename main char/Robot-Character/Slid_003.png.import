@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dmafd7u1li7if"
+path="res://.godot/imported/Slid_003.png-6314335e93f287c36243d2153822f1c6.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Slid_003.png"
+dest_files=["res://.godot/imported/Slid_003.png-6314335e93f287c36243d2153822f1c6.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

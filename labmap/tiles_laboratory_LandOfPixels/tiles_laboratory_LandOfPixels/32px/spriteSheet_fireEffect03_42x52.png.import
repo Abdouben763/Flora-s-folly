@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dxfdgdia018ad"
+path="res://.godot/imported/spriteSheet_fireEffect03_42x52.png-d4ab53bebc28b326f8c496368ff5808e.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://labmap/tiles_laboratory_LandOfPixels/tiles_laboratory_LandOfPixels/32px/spriteSheet_fireEffect03_42x52.png"
+dest_files=["res://.godot/imported/spriteSheet_fireEffect03_42x52.png-d4ab53bebc28b326f8c496368ff5808e.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

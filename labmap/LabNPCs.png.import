@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bvqihdhg8grc3"
+path="res://.godot/imported/LabNPCs.png-b5c73b6b734e1953dfa59ccf5924487a.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://labmap/LabNPCs.png"
+dest_files=["res://.godot/imported/LabNPCs.png-b5c73b6b734e1953dfa59ccf5924487a.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

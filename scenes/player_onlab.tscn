@@ -1,0 +1,185 @@
+[gd_scene load_steps=36 format=3]
+
+[ext_resource type="Script" path="res://scenes/player_onlab.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://ddlxilobm1rdw" path="res://main char/Robot-Character/Attack_1_000.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://c76jchmc5wpql" path="res://main char/Robot-Character/Attack_1_001.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://c7q2mwt23lfnn" path="res://main char/Robot-Character/Attack_1_002.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://dnkguo1bnq5eg" path="res://main char/Robot-Character/Attack_1_003.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://dpgojsnkslxb" path="res://main char/Robot-Character/Attack_1_004.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://bgnssap5rrhbq" path="res://main char/Robot-Character/Attack_1_005.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://bjt881wv0n2cp" path="res://main char/Robot-Character/Attack_1_006.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://bo1o0756p4u8e" path="res://main char/Robot-Character/Attack_1_007.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://dfa7wpdx24rrl" path="res://main char/Robot-Character/Attack_1_008.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://cbfyi1b3wwrb8" path="res://main char/Robot-Character/Death_001.png" id="11"]
+[ext_resource type="Texture2D" uid="uid://b5w4m3lnrxdn" path="res://main char/Robot-Character/Death_002.png" id="12"]
+[ext_resource type="Texture2D" uid="uid://coix4s2fvp4p" path="res://main char/Robot-Character/Death_003.png" id="13"]
+[ext_resource type="Texture2D" uid="uid://bswbmkivo2mye" path="res://main char/Robot-Character/Death_004.png" id="14"]
+[ext_resource type="Texture2D" uid="uid://dblp3rsb7vcnj" path="res://main char/Robot-Character/Death_005.png" id="15"]
+[ext_resource type="Texture2D" uid="uid://coy8bp40r0vnj" path="res://main char/Robot-Character/Death_006.png" id="16"]
+[ext_resource type="Texture2D" uid="uid://d27rmplynp62m" path="res://main char/Robot-Character/Death_008.png" id="17"]
+[ext_resource type="Texture2D" uid="uid://yobgil7mbru4" path="res://main char/Robot-Character/Idle_000.png" id="18"]
+[ext_resource type="Texture2D" uid="uid://d375g0a8bsk41" path="res://main char/Robot-Character/Idle_001.png" id="19"]
+[ext_resource type="Texture2D" uid="uid://fhv0qt34y23y" path="res://main char/Robot-Character/Idle_002.png" id="20"]
+[ext_resource type="Texture2D" uid="uid://duh8dcekuse1c" path="res://main char/Robot-Character/Idle_003.png" id="21"]
+[ext_resource type="Texture2D" uid="uid://e0rmnu3hhsbw" path="res://main char/Robot-Character/Idle_004.png" id="22"]
+[ext_resource type="Texture2D" uid="uid://bq4qnxrsc8i1c" path="res://main char/Robot-Character/Idle_005.png" id="23"]
+[ext_resource type="Texture2D" uid="uid://itsqg7ttgwnk" path="res://main char/Robot-Character/Idle_006.png" id="24"]
+[ext_resource type="Texture2D" uid="uid://c3adf1ao8sro1" path="res://main char/Robot-Character/Run_000.png" id="25"]
+[ext_resource type="Texture2D" uid="uid://cps1ef5syt0pl" path="res://main char/Robot-Character/Run_001.png" id="26"]
+[ext_resource type="Texture2D" uid="uid://680bsiw1gxnh" path="res://main char/Robot-Character/Run_002.png" id="27"]
+[ext_resource type="Texture2D" uid="uid://6xb8ov4oe7n8" path="res://main char/Robot-Character/Run_003.png" id="28"]
+[ext_resource type="Texture2D" uid="uid://cxxqruptbt7if" path="res://main char/Robot-Character/Run_004.png" id="29"]
+[ext_resource type="Texture2D" uid="uid://rsufp87xerdu" path="res://main char/Robot-Character/Run_005.png" id="30"]
+[ext_resource type="Texture2D" uid="uid://cendw03haseqh" path="res://main char/Robot-Character/Run_006.png" id="31"]
+[ext_resource type="Texture2D" uid="uid://jm3brjr2m00x" path="res://main char/Robot-Character/Run_007.png" id="32"]
+[ext_resource type="Texture2D" uid="uid://smhj28eky6ao" path="res://main char/Robot-Character/Run_008.png" id="33"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_lbrtx"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10")
+}],
+"loop": true,
+"name": &"attacking",
+"speed": 20.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("11")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17")
+}],
+"loop": true,
+"name": &"death",
+"speed": 11.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("18")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 16.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("25")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33")
+}],
+"loop": true,
+"name": &"run",
+"speed": 16.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_rwofv"]
+size = Vector2(25, 36)
+
+[node name="player_onlab" type="CharacterBody2D"]
+z_index = 3
+collision_layer = 3
+collision_mask = 3
+script = ExtResource("1")
+
+[node name="playeranim_lab" type="AnimatedSprite2D" parent="."]
+z_index = 2
+texture_filter = 1
+position = Vector2(100, 37.5)
+scale = Vector2(0.08762890100479126, 0.06271380186080933)
+sprite_frames = SubResource("SpriteFrames_lbrtx")
+animation = &"idle"
+autoplay = "idle"
+
+[node name="playercollision" type="CollisionShape2D" parent="."]
+z_index = 1
+position = Vector2(99.5, 39)
+shape = SubResource("RectangleShape2D_rwofv")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(107, 62)
+zoom = Vector2(1.504999995231628, 1.504999995231628)
+limit_left = -18
+limit_top = -20
+limit_right = 1152
+limit_bottom = 742

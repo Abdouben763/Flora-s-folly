@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bc3524l2xdxu6"
+path="res://.godot/imported/Retro2.mp3-d556ad9b11362898412d74bad8c612a2.mp3str"
+
+[deps]
+
+source_file="res://sounds/Retro2.mp3"
+dest_files=["res://.godot/imported/Retro2.mp3-d556ad9b11362898412d74bad8c612a2.mp3str"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b4oskqs4bd1ql"
+path="res://.godot/imported/Poison Cloud13.png-69d879a87cfa6d474c09fa639ef54a7d.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/Poison Cloud/Poison Cloud13.png"
+dest_files=["res://.godot/imported/Poison Cloud13.png-69d879a87cfa6d474c09fa639ef54a7d.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

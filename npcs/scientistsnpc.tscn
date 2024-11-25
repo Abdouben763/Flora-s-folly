@@ -1,0 +1,260 @@
+[gd_scene load_steps=19 format=3]
+
+[ext_resource type="Script" path="res://npcs/scientistsnpc.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://bvqihdhg8grc3" path="res://labmap/LabNPCs.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://cpfu5uq28irc" path="res://icons/z.png" id="3"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_q3fmb"]
+atlas = ExtResource("2")
+region = Rect2(33, 0, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_01gfd"]
+atlas = ExtResource("2")
+region = Rect2(66, 96, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_h3mrh"]
+atlas = ExtResource("2")
+region = Rect2(33, 96, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_r8qxd"]
+atlas = ExtResource("2")
+region = Rect2(0, 96, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pwsq0"]
+atlas = ExtResource("2")
+region = Rect2(0, 48, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rk0f2"]
+atlas = ExtResource("2")
+region = Rect2(33, 48, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_84ubi"]
+atlas = ExtResource("2")
+region = Rect2(66, 48, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_b0npr"]
+atlas = ExtResource("2")
+region = Rect2(0, 0, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7vhxh"]
+atlas = ExtResource("2")
+region = Rect2(33, 0, 33, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_cdkvq"]
+atlas = ExtResource("2")
+region = Rect2(66, 0, 33, 48)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_5rcsg"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_q3fmb")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_01gfd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_h3mrh")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_r8qxd")
+}],
+"loop": true,
+"name": &"lwalk",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_pwsq0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_rk0f2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_84ubi")
+}],
+"loop": true,
+"name": &"rwalk",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_b0npr")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7vhxh")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_cdkvq")
+}],
+"loop": true,
+"name": &"swalk",
+"speed": 3.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_h8moo"]
+radius = 26.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_xjhg2"]
+radius = 89.00559997558594
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_woeos"]
+bg_color = Color(0, 0, 0, 1)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+corner_radius_top_left = 5
+corner_radius_top_right = 5
+corner_radius_bottom_right = 5
+corner_radius_bottom_left = 5
+shadow_color = Color(0.8117650151252747, 0.8117650151252747, 0.8117650151252747, 0.6000000238418579)
+shadow_size = 5
+
+[sub_resource type="LabelSettings" id="LabelSettings_kpr07"]
+line_spacing = 2.0
+font_size = 10
+
+[node name="scientistsnpc" type="CharacterBody2D"]
+position = Vector2(348, 162)
+script = ExtResource("1")
+
+[node name="scientist" type="AnimatedSprite2D" parent="."]
+z_index = 1
+texture_filter = 1
+position = Vector2(-13, -16)
+scale = Vector2(2.09279990196228, 1.802080035209656)
+sprite_frames = SubResource("SpriteFrames_5rcsg")
+animation = &"idle"
+autoplay = "idle"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+z_index = 1
+shape = SubResource("CircleShape2D_h8moo")
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="trigger" type="Area2D" parent="."]
+collision_layer = 2
+collision_mask = 2
+
+[node name="triggercol" type="CollisionShape2D" parent="trigger"]
+shape = SubResource("CircleShape2D_xjhg2")
+
+[node name="textbox" type="Panel" parent="."]
+z_index = 3
+offset_left = -78.0
+offset_top = -132.0
+offset_right = 77.0
+offset_bottom = -45.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_woeos")
+
+[node name="npc_text" type="Label" parent="textbox"]
+layout_mode = 2
+offset_left = 8.0
+offset_top = 8.0
+offset_right = 142.0
+offset_bottom = 83.0
+size_flags_vertical = 1
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+label_settings = SubResource("LabelSettings_kpr07")
+autowrap_mode = 2
+uppercase = true
+
+[node name="TextureRect2" type="TextureRect" parent="textbox"]
+modulate = Color(0.4117650091648102, 0.4117650091648102, 0.4117650091648102, 1)
+self_modulate = Color(0.7607839703559875, 0.7607839703559875, 0.7607839703559875, 1)
+texture_filter = 1
+layout_mode = 2
+offset_left = 136.0
+offset_top = 73.0
+offset_right = 146.0
+offset_bottom = 83.0
+size_flags_horizontal = 4
+size_flags_vertical = 8
+texture = ExtResource("3")
+expand_mode = 1
+
+[node name="yes" type="Button" parent="textbox"]
+visible = false
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 30.0
+offset_top = 47.0
+offset_right = -87.0
+offset_bottom = -15.0
+text = "YES"
+
+[node name="no" type="Button" parent="textbox"]
+visible = false
+layout_mode = 0
+offset_left = 83.0
+offset_top = 47.0
+offset_right = 124.0
+offset_bottom = 72.0
+text = "NO"
+
+[node name="hey" type="Panel" parent="."]
+visible = false
+offset_left = -13.0
+offset_top = -63.0
+offset_right = 14.0
+offset_bottom = -33.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_woeos")
+
+[node name="MarginContainer" type="TextureRect" parent="hey"]
+modulate = Color(0.8392159938812256, 0.8392159938812256, 0.8392159938812256, 1)
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 0.9829999804496765
+anchor_bottom = 1.0
+offset_right = 0.4589999914169312
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="hey/MarginContainer"]
+layout_mode = 2
+offset_left = 3.0
+offset_top = 4.0
+offset_right = 26.0
+offset_bottom = 18.0
+size_flags_vertical = 0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+text = "hey"
+label_settings = SubResource("LabelSettings_kpr07")
+autowrap_mode = 2
+uppercase = true
+
+[node name="TextureRect" type="TextureRect" parent="hey/MarginContainer"]
+modulate = Color(0.4117650091648102, 0.4117650091648102, 0.4117650091648102, 1)
+self_modulate = Color(0.7607839703559875, 0.7607839703559875, 0.7607839703559875, 1)
+texture_filter = 1
+layout_mode = 2
+offset_left = 8.0
+offset_top = 18.0
+offset_right = 18.0
+offset_bottom = 28.0
+size_flags_horizontal = 4
+size_flags_vertical = 8
+texture = ExtResource("3")
+expand_mode = 1
+
+[node name="texttimer1" type="Timer" parent="."]
+wait_time = 5.0
+
+[node name="text2" type="Timer" parent="."]
+wait_time = 10.0
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
+[connection signal="body_entered" from="trigger" to="." method="_on_trigger_body_entered"]
+[connection signal="body_exited" from="trigger" to="." method="_on_trigger_body_exited"]
+[connection signal="pressed" from="textbox/yes" to="." method="_on_yes_pressed"]
+[connection signal="pressed" from="textbox/no" to="." method="_on_no_pressed"]
+[connection signal="timeout" from="texttimer1" to="." method="_on_texttimer_1_timeout"]
+[connection signal="timeout" from="text2" to="." method="_on_text_2_timeout"]

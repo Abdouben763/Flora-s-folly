@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://mby3r4vuctiw"
+path="res://.godot/imported/water_and_island_tiles_v2.png-114dc1bc176a108e17e705f1d72613fc.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://water_and_island_tiles_v2.png"
+dest_files=["res://.godot/imported/water_and_island_tiles_v2.png-114dc1bc176a108e17e705f1d72613fc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

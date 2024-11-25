@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cs0o3psdfwx8p"
+path="res://.godot/imported/Special.png-a93adf0d0b64dfb3007017bf89da7b17.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://characters/free-townspeople-cyberpunk-pixel-art/4/Special.png"
+dest_files=["res://.godot/imported/Special.png-a93adf0d0b64dfb3007017bf89da7b17.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

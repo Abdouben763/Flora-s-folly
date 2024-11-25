@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://suy8sv2vt4ha"
+path="res://.godot/imported/assets_spritesheet_v2_free.png-86cc0111363d036f2742424c2b37550e.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://gameplaymap/assets_spritesheet_v2_free.png"
+dest_files=["res://.godot/imported/assets_spritesheet_v2_free.png-86cc0111363d036f2742424c2b37550e.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

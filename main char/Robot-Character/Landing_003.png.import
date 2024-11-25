@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dcbyudh5ulpcv"
+path="res://.godot/imported/Landing_003.png-8c8dc0cb9916854cc5e8cd32c6ecc708.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Landing_003.png"
+dest_files=["res://.godot/imported/Landing_003.png-8c8dc0cb9916854cc5e8cd32c6ecc708.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

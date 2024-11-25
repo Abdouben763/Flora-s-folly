@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bft27xqne8crr"
+path="res://.godot/imported/botgreen3.png-48c21a449f10ff1497b93b727d0302a9.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/gunbot/4/botgreen3.png"
+dest_files=["res://.godot/imported/botgreen3.png-48c21a449f10ff1497b93b727d0302a9.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

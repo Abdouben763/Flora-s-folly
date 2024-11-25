@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bgub6vs341x18"
+path="res://.godot/imported/Fire+Sparks7.png-ad1949ff4c2101648409aad09b574316.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/Fire+Sparks/Fire+Sparks7.png"
+dest_files=["res://.godot/imported/Fire+Sparks7.png-ad1949ff4c2101648409aad09b574316.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

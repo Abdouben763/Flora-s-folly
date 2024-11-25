@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://i73hkj6ykra"
+path="res://.godot/imported/Idledrone2.png-e6b9b2852a21f2514a2994a39c9e4d36.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/Idledrone2.png"
+dest_files=["res://.godot/imported/Idledrone2.png-e6b9b2852a21f2514a2994a39c9e4d36.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

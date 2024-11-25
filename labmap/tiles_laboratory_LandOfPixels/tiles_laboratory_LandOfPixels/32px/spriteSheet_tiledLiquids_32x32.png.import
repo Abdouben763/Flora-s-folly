@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bf5vnpvknxyf1"
+path="res://.godot/imported/spriteSheet_tiledLiquids_32x32.png-c99cc424f959944c7a5a3e7cac637934.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://labmap/tiles_laboratory_LandOfPixels/tiles_laboratory_LandOfPixels/32px/spriteSheet_tiledLiquids_32x32.png"
+dest_files=["res://.godot/imported/spriteSheet_tiledLiquids_32x32.png-c99cc424f959944c7a5a3e7cac637934.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

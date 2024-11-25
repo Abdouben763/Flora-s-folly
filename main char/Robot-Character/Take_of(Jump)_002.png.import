@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cm5hdeoutwgrl"
+path="res://.godot/imported/Take_of(Jump)_002.png-e06b72e2b71e6bb1ef8796d546a404ed.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Take_of(Jump)_002.png"
+dest_files=["res://.godot/imported/Take_of(Jump)_002.png-e06b72e2b71e6bb1ef8796d546a404ed.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

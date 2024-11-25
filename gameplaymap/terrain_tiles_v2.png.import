@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://chq2vps21cske"
+path="res://.godot/imported/terrain_tiles_v2.png-73d2398fed73c1e57621422db4990460.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://gameplaymap/terrain_tiles_v2.png"
+dest_files=["res://.godot/imported/terrain_tiles_v2.png-73d2398fed73c1e57621422db4990460.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

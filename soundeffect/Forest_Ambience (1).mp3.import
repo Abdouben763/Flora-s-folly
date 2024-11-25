@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dewmnle3n2uyy"
+path="res://.godot/imported/Forest_Ambience (1).mp3-86dbb93f2c59dfa6ce4efa1ab495e16b.mp3str"
+
+[deps]
+
+source_file="res://soundeffect/Forest_Ambience (1).mp3"
+dest_files=["res://.godot/imported/Forest_Ambience (1).mp3-86dbb93f2c59dfa6ce4efa1ab495e16b.mp3str"]
+
+[params]
+
+dummy_value_ignore_me=0

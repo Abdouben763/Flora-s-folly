@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://smsu6yjwjc1r"
+path="res://.godot/imported/lonerobot.mp3-e8c93218d4bf8273dc326398399b131e.mp3str"
+
+[deps]
+
+source_file="res://voice/lonerobot.mp3"
+dest_files=["res://.godot/imported/lonerobot.mp3-e8c93218d4bf8273dc326398399b131e.mp3str"]
+
+[params]
+
+dummy_value_ignore_me=0

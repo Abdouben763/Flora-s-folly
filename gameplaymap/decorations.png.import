@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bw6g8dy5jv0gw"
+path="res://.godot/imported/decorations.png-dcc65b5194d6ee624096ecce5ea40eef.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://gameplaymap/decorations.png"
+dest_files=["res://.godot/imported/decorations.png-dcc65b5194d6ee624096ecce5ea40eef.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

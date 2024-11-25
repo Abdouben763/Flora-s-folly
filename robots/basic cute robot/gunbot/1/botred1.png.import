@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cdh3b5f1obk3d"
+path="res://.godot/imported/botred1.png-286841a3da6eb699aad13fce09ef88c2.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/gunbot/1/botred1.png"
+dest_files=["res://.godot/imported/botred1.png-286841a3da6eb699aad13fce09ef88c2.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

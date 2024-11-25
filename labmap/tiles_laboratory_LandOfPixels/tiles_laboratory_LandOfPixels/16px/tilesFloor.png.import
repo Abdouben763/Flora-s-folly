@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://m2mffpk15dvp"
+path="res://.godot/imported/tilesFloor.png-12578f8c215bd128aaa7572d7f1abb63.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://labmap/tiles_laboratory_LandOfPixels/tiles_laboratory_LandOfPixels/16px/tilesFloor.png"
+dest_files=["res://.godot/imported/tilesFloor.png-12578f8c215bd128aaa7572d7f1abb63.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cscckpr40eb7m"
+path="res://.godot/imported/ruins.png-7883a162d58fb822cd908518e8e620c8.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://maps/ruins.png"
+dest_files=["res://.godot/imported/ruins.png-7883a162d58fb822cd908518e8e620c8.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

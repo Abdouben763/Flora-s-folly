@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://g8e0fg22dm62"
+path="res://.godot/imported/DabDance_002.png-d5add77cf3a82dce80e4aafaecd72175.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/DabDance_002.png"
+dest_files=["res://.godot/imported/DabDance_002.png-d5add77cf3a82dce80e4aafaecd72175.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

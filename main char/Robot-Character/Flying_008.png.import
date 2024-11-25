@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bt7ouxg5xd4o2"
+path="res://.godot/imported/Flying_008.png-6cb7287f7dee95f0dc8059acc9cc976b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Flying_008.png"
+dest_files=["res://.godot/imported/Flying_008.png-6cb7287f7dee95f0dc8059acc9cc976b.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

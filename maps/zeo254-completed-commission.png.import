@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cl7an10vwvrlp"
+path="res://.godot/imported/zeo254-completed-commission.png-de4f0d1fd78c27200df196b5381d1ff9.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://maps/zeo254-completed-commission.png"
+dest_files=["res://.godot/imported/zeo254-completed-commission.png-de4f0d1fd78c27200df196b5381d1ff9.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

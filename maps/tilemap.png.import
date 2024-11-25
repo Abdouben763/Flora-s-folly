@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://wtxdwl7rkmir"
+path="res://.godot/imported/tilemap.png-863a9a1d3dd6b3a128cd88360b94117d.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://maps/tilemap.png"
+dest_files=["res://.godot/imported/tilemap.png-863a9a1d3dd6b3a128cd88360b94117d.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

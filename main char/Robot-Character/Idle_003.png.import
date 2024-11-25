@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://duh8dcekuse1c"
+path="res://.godot/imported/Idle_003.png-88d5136dfc5d0499662f244106b829e3.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Idle_003.png"
+dest_files=["res://.godot/imported/Idle_003.png-88d5136dfc5d0499662f244106b829e3.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

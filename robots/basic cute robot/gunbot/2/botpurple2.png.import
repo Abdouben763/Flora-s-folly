@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c88vuhhrgl24r"
+path="res://.godot/imported/botpurple2.png-91aa9abe2c29a4a82d780f8d03b31eeb.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/gunbot/2/botpurple2.png"
+dest_files=["res://.godot/imported/botpurple2.png-91aa9abe2c29a4a82d780f8d03b31eeb.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

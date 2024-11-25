@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c8k30d7kbf2ri"
+path="res://.godot/imported/cavernopening.png-dfa9a22f6aa357c89bffda1637098efe.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/cavernopening.png"
+dest_files=["res://.godot/imported/cavernopening.png-dfa9a22f6aa357c89bffda1637098efe.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dd6xmnaljye5c"
+path="res://.godot/imported/sMockup.png-00c8075fab615912a4014302ffe5dcc6.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://maps/sMockup.png"
+dest_files=["res://.godot/imported/sMockup.png-00c8075fab615912a4014302ffe5dcc6.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

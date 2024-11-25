@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://jmx2sgxy1nn5"
+path="res://.godot/imported/cave_entrance.png-d63629ae883e680c4391c838942d32a3.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/cave_entrance.png"
+dest_files=["res://.godot/imported/cave_entrance.png-d63629ae883e680c4391c838942d32a3.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dah4cyelapj3v"
+path="res://.godot/imported/ballpurple1.png-79c3b130dd08fa72f04c15c589f96ba6.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/ballbot/2/ballpurple1.png"
+dest_files=["res://.godot/imported/ballpurple1.png-79c3b130dd08fa72f04c15c589f96ba6.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

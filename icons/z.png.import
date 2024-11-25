@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cpfu5uq28irc"
+path="res://.godot/imported/z.png-212657fd9680a2f692bd2a4c0a7abae5.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://icons/z.png"
+dest_files=["res://.godot/imported/z.png-212657fd9680a2f692bd2a4c0a7abae5.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

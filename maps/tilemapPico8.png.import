@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://d2gi2rxm8eboo"
+path="res://.godot/imported/tilemapPico8.png-5796c8211e09758ca8bde70d39252fd9.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://maps/tilemapPico8.png"
+dest_files=["res://.godot/imported/tilemapPico8.png-5796c8211e09758ca8bde70d39252fd9.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

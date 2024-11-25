@@ -1,0 +1,52 @@
+[gd_scene load_steps=6 format=3]
+
+[ext_resource type="Texture2D" uid="uid://bf70y56jf3kin" path="res://background/Image.png" id="1"]
+[ext_resource type="Script" path="res://scenes/menu.gd" id="2"]
+[ext_resource type="Theme" uid="uid://b0h5m4p335hpa" path="res://background/default 2.tres" id="3"]
+[ext_resource type="AudioStream" uid="uid://bldm13ejnaf5q" path="res://sounds/Retro7.mp3" id="4"]
+[ext_resource type="AudioStream" uid="uid://bc3524l2xdxu6" path="res://sounds/Retro2.mp3" id="5"]
+
+[node name="menu" type="TextureRect"]
+texture_filter = 1
+offset_right = 1152.0
+offset_bottom = 648.0
+texture = ExtResource("1")
+script = ExtResource("2")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 0
+offset_left = 459.0
+offset_top = 266.0
+offset_right = 705.0
+offset_bottom = 427.0
+alignment = 1
+
+[node name="start" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+focus_neighbor_top = NodePath("../quit")
+theme = ExtResource("3")
+text = "START"
+flat = true
+
+[node name="option" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+text = "OPTIONS"
+flat = true
+
+[node name="quit" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+focus_neighbor_bottom = NodePath("../start")
+text = "QUIT"
+flat = true
+
+[node name="enter" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4")
+
+[node name="scroll" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("5")
+
+[connection signal="pressed" from="VBoxContainer/start" to="." method="_on_start_pressed"]
+[connection signal="pressed" from="VBoxContainer/quit" to="." method="_on_quit_pressed"]

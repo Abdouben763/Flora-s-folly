@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bn2u07k1sme1k"
+path="res://.godot/imported/rectTileUniverse_BasicDirt_Tiles_B.png-308603ac97fac63b6fa8e8454cfd1d5f.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://cave/rectTileUniverse_BasicDirt_Tiles_B.png"
+dest_files=["res://.godot/imported/rectTileUniverse_BasicDirt_Tiles_B.png-308603ac97fac63b6fa8e8454cfd1d5f.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

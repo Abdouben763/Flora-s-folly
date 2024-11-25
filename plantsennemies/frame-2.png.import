@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ck7mdb3roctde"
+path="res://.godot/imported/frame-2.png-f90ffc2c50d5a6d16ff9356fe9e44a41.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://plantsennemies/frame-2.png"
+dest_files=["res://.godot/imported/frame-2.png-f90ffc2c50d5a6d16ff9356fe9e44a41.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

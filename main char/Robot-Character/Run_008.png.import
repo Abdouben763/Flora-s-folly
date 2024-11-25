@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://smhj28eky6ao"
+path="res://.godot/imported/Run_008.png-dd89421ee9c8b2b4c71428bd1ce7bf2b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Run_008.png"
+dest_files=["res://.godot/imported/Run_008.png-dd89421ee9c8b2b4c71428bd1ce7bf2b.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

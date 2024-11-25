@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://di4m4ynsiaecs"
+path="res://.godot/imported/Fly_2_007.png-10aa81c7e69df86b390589bf8c9aba76.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Fly_2_007.png"
+dest_files=["res://.godot/imported/Fly_2_007.png-10aa81c7e69df86b390589bf8c9aba76.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

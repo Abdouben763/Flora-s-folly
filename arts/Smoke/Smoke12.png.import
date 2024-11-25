@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://rt8dd3cwui5t"
+path="res://.godot/imported/Smoke12.png-8b54ba5002c3126369e5ba1c1259dc3b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/Smoke/Smoke12.png"
+dest_files=["res://.godot/imported/Smoke12.png-8b54ba5002c3126369e5ba1c1259dc3b.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://d1e4v8c4vx7c5"
+path="res://.godot/imported/$Tree Ent throwing (1).png-d252e2652c04404d5a0a15574891497f.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://plantsennemies/treeant/$Tree Ent throwing (1).png"
+dest_files=["res://.godot/imported/$Tree Ent throwing (1).png-d252e2652c04404d5a0a15574891497f.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

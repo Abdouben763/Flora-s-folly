@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://clneiuh8o80lc"
+path="res://.godot/imported/54.png-7a287b52f6c1b79f4209d62bd4e73f8f.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://cars/54.png"
+dest_files=["res://.godot/imported/54.png-7a287b52f6c1b79f4209d62bd4e73f8f.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

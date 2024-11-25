@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bb37wx5yh4ld"
+path="res://.godot/imported/Gravity14.png-e20b592bac97c04d1b3bc9ef70afe517.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/Gravity/Gravity14.png"
+dest_files=["res://.godot/imported/Gravity14.png-e20b592bac97c04d1b3bc9ef70afe517.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

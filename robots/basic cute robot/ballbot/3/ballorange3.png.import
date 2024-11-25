@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dlhrv8l2wlg3f"
+path="res://.godot/imported/ballorange3.png-3a487c444e8781335210206e93bc756d.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/ballbot/3/ballorange3.png"
+dest_files=["res://.godot/imported/ballorange3.png-3a487c444e8781335210206e93bc756d.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

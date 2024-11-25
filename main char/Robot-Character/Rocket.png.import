@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bd6scc5mjxsma"
+path="res://.godot/imported/Rocket.png-05fa75cc7028bb379e0148d66a9ab85c.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Rocket.png"
+dest_files=["res://.godot/imported/Rocket.png-05fa75cc7028bb379e0148d66a9ab85c.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

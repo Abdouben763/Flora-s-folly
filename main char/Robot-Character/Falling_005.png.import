@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bslnl8t5a3q8h"
+path="res://.godot/imported/Falling_005.png-fdc7a2b23f090201e65f8c564909bd8b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Falling_005.png"
+dest_files=["res://.godot/imported/Falling_005.png-fdc7a2b23f090201e65f8c564909bd8b.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

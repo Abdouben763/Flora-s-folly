@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dfa7wpdx24rrl"
+path="res://.godot/imported/Attack_1_008.png-ebd66e8906d779902c5ed5bbb16edc58.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Attack_1_008.png"
+dest_files=["res://.godot/imported/Attack_1_008.png-ebd66e8906d779902c5ed5bbb16edc58.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

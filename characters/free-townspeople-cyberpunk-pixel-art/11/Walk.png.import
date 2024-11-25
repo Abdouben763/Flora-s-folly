@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://du46p1oeay3a6"
+path="res://.godot/imported/Walk.png-2c9f47148ddfc58c39494c76543ce069.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://characters/free-townspeople-cyberpunk-pixel-art/11/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-2c9f47148ddfc58c39494c76543ce069.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

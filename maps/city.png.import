@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cg1pa4n6j7r8w"
+path="res://.godot/imported/city.png-f905b63db107c235b963014796a43b4a.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://maps/city.png"
+dest_files=["res://.godot/imported/city.png-f905b63db107c235b963014796a43b4a.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

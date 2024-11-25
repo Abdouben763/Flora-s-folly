@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cc7m0601nrido"
+path="res://.godot/imported/Leaves17.png-7ba54f2eb1f6f2c3170b5fc2ccb23fbe.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/Leaves/Leaves17.png"
+dest_files=["res://.godot/imported/Leaves17.png-7ba54f2eb1f6f2c3170b5fc2ccb23fbe.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b0a713hn5um2a"
+path="res://.godot/imported/#Robot-Character1-By-MJ.png-4cf826e01d929040fcaece35ed039226.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/#Robot-Character1-By-MJ.png"
+dest_files=["res://.godot/imported/#Robot-Character1-By-MJ.png-4cf826e01d929040fcaece35ed039226.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dt2eh36nd4upi"
+path="res://.godot/imported/Tileset1xPadding.png-9794f073fe45d9e5e91f81495b5b359b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://gameplaymap/forest/Tileset1xPadding.png"
+dest_files=["res://.godot/imported/Tileset1xPadding.png-9794f073fe45d9e5e91f81495b5b359b.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dbd57yb11j3os"
+path="res://.godot/imported/Damage_002.png-1f1bbf0066336dd3fce58699d08d05e4.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Damage_002.png"
+dest_files=["res://.godot/imported/Damage_002.png-1f1bbf0066336dd3fce58699d08d05e4.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

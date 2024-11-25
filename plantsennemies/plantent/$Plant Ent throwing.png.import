@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bxv10sl1bqkjo"
+path="res://.godot/imported/$Plant Ent throwing.png-41d5570fa5981e735bede18df964485b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://plantsennemies/plantent/$Plant Ent throwing.png"
+dest_files=["res://.godot/imported/$Plant Ent throwing.png-41d5570fa5981e735bede18df964485b.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

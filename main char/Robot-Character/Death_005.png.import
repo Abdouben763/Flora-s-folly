@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dblp3rsb7vcnj"
+path="res://.godot/imported/Death_005.png-908e92063971acae688a233c64d9aebf.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://main char/Robot-Character/Death_005.png"
+dest_files=["res://.godot/imported/Death_005.png-908e92063971acae688a233c64d9aebf.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

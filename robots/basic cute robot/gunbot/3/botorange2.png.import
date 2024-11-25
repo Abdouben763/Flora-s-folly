@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://chafn33dqw1lw"
+path="res://.godot/imported/botorange2.png-f0a82a2d6b05b815e7379a66a36039e1.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/gunbot/3/botorange2.png"
+dest_files=["res://.godot/imported/botorange2.png-f0a82a2d6b05b815e7379a66a36039e1.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

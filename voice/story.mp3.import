@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cxsdqcjhmq101"
+path="res://.godot/imported/story.mp3-bbc81321342fe4634a1ea88ce90b1396.mp3str"
+
+[deps]
+
+source_file="res://voice/story.mp3"
+dest_files=["res://.godot/imported/story.mp3-bbc81321342fe4634a1ea88ce90b1396.mp3str"]
+
+[params]
+
+dummy_value_ignore_me=0

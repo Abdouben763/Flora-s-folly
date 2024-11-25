@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://djl0i7owlf3tv"
+path="res://.godot/imported/Leaves2.png-0fc9510fef994f55ee858b046e48ffd7.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://arts/Leaves/Leaves2.png"
+dest_files=["res://.godot/imported/Leaves2.png-0fc9510fef994f55ee858b046e48ffd7.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

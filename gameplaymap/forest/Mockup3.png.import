@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cecsa1ojpw3qr"
+path="res://.godot/imported/Mockup3.png-0572eb1b07281be325d542a0bc6913be.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://gameplaymap/forest/Mockup3.png"
+dest_files=["res://.godot/imported/Mockup3.png-0572eb1b07281be325d542a0bc6913be.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

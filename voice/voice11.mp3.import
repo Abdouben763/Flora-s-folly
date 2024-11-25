@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://brt2cva7dmuqt"
+path="res://.godot/imported/voice11.mp3-8eb9f6eba737db85ba80c24d92dc1361.mp3str"
+
+[deps]
+
+source_file="res://voice/voice11.mp3"
+dest_files=["res://.godot/imported/voice11.mp3-8eb9f6eba737db85ba80c24d92dc1361.mp3str"]
+
+[params]
+
+dummy_value_ignore_me=0

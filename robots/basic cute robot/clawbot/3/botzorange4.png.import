@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b52g2h8n4cgn7"
+path="res://.godot/imported/botzorange4.png-5f86fa0a8e00d8a0fc4c111163ea77eb.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://robots/basic cute robot/clawbot/3/botzorange4.png"
+dest_files=["res://.godot/imported/botzorange4.png-5f86fa0a8e00d8a0fc4c111163ea77eb.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

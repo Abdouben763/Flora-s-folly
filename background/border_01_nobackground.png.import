@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://h1dt5bvms2uk"
+path="res://.godot/imported/border_01_nobackground.png-b1d7d29fc94e8b207b11a263227b0449.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://background/border_01_nobackground.png"
+dest_files=["res://.godot/imported/border_01_nobackground.png-b1d7d29fc94e8b207b11a263227b0449.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

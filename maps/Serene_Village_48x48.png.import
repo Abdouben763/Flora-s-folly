@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cp4gkv3vhwlro"
+path="res://.godot/imported/Serene_Village_48x48.png-dadb31e74de0e563fe12949baf0402a6.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://maps/Serene_Village_48x48.png"
+dest_files=["res://.godot/imported/Serene_Village_48x48.png-dadb31e74de0e563fe12949baf0402a6.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0
